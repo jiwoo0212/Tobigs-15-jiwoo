@@ -12,7 +12,7 @@
 |WEEK3|Naive Bayes/Decision Tree , KNN/클러스터링|
 |WEEK4|Ensemble, SVM|
 |WEEK5|WebCrawling, 차원축소|
-|WEEK6|Class(객체지향), NeuralNet기초|
+|WEEK6|Class(OOP), NeuralNet기초|
 |WEEK7|TimeSeriesAnalysis, NeuralNet심화, Framework|
 |WEEK8|CNN기초, NLP기초, 강화학습|
 |WEEK9|CNN심화, NLP심화|
