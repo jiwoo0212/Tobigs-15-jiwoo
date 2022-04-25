@@ -9,7 +9,7 @@
 |----|----|
 |WEEK1|EDA|
 |WEEK2|Regression, Opimization|
-|WEEK3|Naive Base/Decision Tree , KNN/클러스터링|
+|WEEK3|Naive Ba/Decision Tree , KNN/클러스터링|
 |WEEK4|Ensemble, SVM|
 |WEEK5|WebCrawling, 차원축소|
 |WEEK6|Class(객체지향), NeuralNet기초|
